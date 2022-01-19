@@ -1,0 +1,24 @@
+{
+  "name": "@codemonument/how2-npm-libs-example-01",
+  "version": "0.0.1",
+  "description": "The example for a plain, commonjs npm library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codemonument/blog-how2-npm-libs-examples.git"
+  },
+  "keywords": [
+    "example-lib", 
+    "blogpost-example", 
+    "blogpost-companion"
+  ],
+  "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemonument/blog-how2-npm-libs-examples/issues"
+  },
+  "homepage": "https://blog.codemonument.com/series/how2-npm-libs"
+}
