@@ -18,7 +18,8 @@
   "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codemonument/blog-how2-npm-libs-examples/issues"
+    "url": "https://github.com/codemonument/blog-how2-npm-libs-examples/issues",
+    "email": "blog@codemonument.com"
   },
   "homepage": "https://blog.codemonument.com/series/how2-npm-libs"
 }
